@@ -9,7 +9,7 @@ def circonferenza():
 def perimetroR():
     base=int(input("Inserisci valore base: "))
     altezza=int(input("Inserisci valore altezza: "))
-    print(f"\nIl perimetro di un rettangolo base{base} e {altezza} è: {(base*2) + (altezza*2)} \n")
+    print(f"\nIl perimetro di un rettangolo base {base} e altezza {altezza} è: {(base*2) + (altezza*2)} \n")
     
 onoff=True
 while(onoff):
